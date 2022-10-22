@@ -13,11 +13,7 @@
 
 ## 📈Statistics
 
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=indexss" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indexss&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=indexss" />
