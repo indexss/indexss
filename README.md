@@ -19,7 +19,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indexss&theme=monokai)
 
-
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indexss&theme=monokai" /></a></p> 
 
 <!-- <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=indexss&hide_border=false" />
