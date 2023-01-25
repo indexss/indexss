@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=4000&color=0B2734&width=435&lines=Linley+Shi+(indexss)" alt="Typing SVG" /></a></p>
+<!-- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=4000&color=0B2734&width=435&lines=Linley+Shi+(indexss)" alt="Typing SVG" /></a></p> -->
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=indexss&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/indexss)
 
@@ -14,7 +14,7 @@
 
 
 ## 📈Statistics
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indexss&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight?username=indexss&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight?username=indexss&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
