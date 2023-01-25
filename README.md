@@ -17,6 +17,8 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indexss&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indexss&theme=monokai)
+
 
 
 <!-- <div align="center">
