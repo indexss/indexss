@@ -14,11 +14,11 @@
 
 
 ## 📈Statistics
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indexss&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indexss&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
-<div align="center">
+<!-- <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=indexss&hide_border=false" />
-</div>
+</div> -->
