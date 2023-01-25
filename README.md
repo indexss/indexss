@@ -18,7 +18,7 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indexss&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
- <p align="center"><a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indexss&theme=monokai" /></a></p> 
+ <p align="center"><a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indexss&theme=transparent" /></a></p> 
 
 <!-- <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=indexss&hide_border=false" />
