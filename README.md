@@ -5,11 +5,11 @@
 
 ## 🥱About me
 
-#### I'm a student major in Computer Science in China.
+#### I'm a student major in Computer Science. Now I study in the UK.
 
 **About me**
 
-- 📖 Sophomore in Central South University.
+- 📖 Sophomore in University of Birmingham.
 - ❤️ I love writing Python, Java and play some deep learning code.
 - 🌐 Visit my Blog  [here](http://www.shilinli.com)
 
