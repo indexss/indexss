@@ -5,7 +5,9 @@
 
 ## 🥱About me
 
-I'm a student major in Computer Science. Now I study in the UK. I completed the first two years of my undergraduate studies at Central South University.
+I'm a student major in Computer Science. Now I study in the UK.
+
+I completed the first two years of my undergraduate studies at Central South University.
 
 **About me**
 
