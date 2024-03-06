@@ -10,6 +10,10 @@ I also like classical music and politics, we can chat about it!
 
 I completed the first two years of my undergraduate studies at Central South University.
 
+At CSU, I have learned some knowledge of deep learning with Professor [Mingming Lu](https://faculty.csu.edu.cn/lumingming/en/index.htm). I am very grateful for his enlightenment to me!
+
+Currently, I am working on Gaze Estimation, Computer Vision, and Robotics at the University of Birmingham with [Yihua Cheng](https://yihua.zone/).
+
 **About me**
 
 - 📖 Sophomore in University of Birmingham.
