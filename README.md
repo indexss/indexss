@@ -13,7 +13,7 @@ I completed the first two years of my undergraduate studies at Central South Uni
 
 - 📖 Sophomore in University of Birmingham.
 - ❤️ I love writing Python, Java and play some deep learning code.
-- 🌐 Visit my Blog hear (Sorry it's not available now! I will fix it soon)
+- 🌐 Visit my Blog here (Sorry it's not available now! I will fix it soon)
 
 
 ## 📈Statistics
