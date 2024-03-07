@@ -18,7 +18,7 @@ Currently, I am working on Gaze Estimation, Computer Vision, and Robotics at the
 
 - 📖 Sophomore in University of Birmingham.
 - ❤️ I love writing Python, Java and play some deep learning code.
-- 🌐 Visit my Blog here (Sorry it's not available now! I will fix it soon)
+- 🌐 Visit my Blog here [indexss's Blog](https://indexss.github.io/)
 
 
 ## 📈Statistics
