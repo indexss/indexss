@@ -5,9 +5,6 @@
 
 ## 🥱About me
 
-I'm a student major in Computer Science. Now I study in the UK.
-I also like classical music and politics, we can chat about it!
-
 I'm currently studying for a BSc in Computer Science at the University of Birmingham in the UK.
 
 And, I completed the first two years of my undergraduate studies at Central South University.
@@ -15,9 +12,8 @@ And, I completed the first two years of my undergraduate studies at Central Sout
 
 **About me**
 
-- 📖 Sophomore in University of Birmingham.
+- 📖 Junior in University of Birmingham.
 - ❤️ I love writing Python, Java and play some deep learning code.
-- 🌐 Visit my Blog here [indexss's Blog](https://indexss.github.io/)
 
 
 ## 📈Statistics
