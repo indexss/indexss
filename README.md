@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Profile Banner -->
   <a href="https://github.com/indexss">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=indexss&theme=darkmode&data=followers,repositories,stars,commits" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=indexss&theme=default&data=followers,repositories,stars,commits" />
   </a>
 
   <!-- Badges -->
@@ -45,15 +45,15 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indexss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats-eta-ten.vercel.app/?user=indexss&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indexss&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats-eta-ten.vercel.app/?user=indexss&hide_border=true" />
 </div>
 
 <div align="center">
   <!-- Languages -->
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> -->
   <!-- Trophies -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=indexss&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=indexss&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" />
 </div>
 
 <!-- snake -->
