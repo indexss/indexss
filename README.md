@@ -51,7 +51,7 @@
 
 <div align="center">
   <!-- Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> -->
   <!-- Trophies -->
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=indexss&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" />
 </div>
