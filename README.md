@@ -1,27 +1,76 @@
-<!-- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=4000&color=0B2734&width=435&lines=Linley+Shi+(indexss)" alt="Typing SVG" /></a></p> -->
+<div align="center">
+  <!-- Profile Banner -->
+  <a href="https://github.com/indexss">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=indexss&theme=darkmode&data=followers,repositories,stars,commits" />
+  </a>
 
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=indexss&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/indexss) -->
- <p align="center"><a href="https://github.com/indexss"><img src="https://github-widgetbox.vercel.app/api/profile?username=indexss&theme=darkmode&data=followers,repositories,stars,commits" /></a></p> 
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Location-Birmingham%2C%20UK-blue?style=for-the-badge&logo=google-maps" />
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20System-green?style=for-the-badge&logo=nvidia" />
+    <img src="https://img.shields.io/badge/Student-Computer%20Science-orange?style=for-the-badge&logo=python" />
+  </p>
+</div>
 
-## 🥱About me
+## 🎓 Education Journey
 
-I'm currently studying for a BSc in Computer Science at the University of Birmingham in the UK.
+### 🇬🇧 University of Birmingham (2023 - Present)
+- **BSc Computer Science**
+- 📚 Focusing on:
+  - Computer Vision
+  - Machine Learning Systems
 
-And, I completed the first two years of my undergraduate studies at Central South University.
+### 🇨🇳 Central South University (2021 - Present)
+- **BEng Computer Science**
+- 📚 Key Areas:
+  - Mathematics & Algorithms
+  - Computer Architecture
+  - Operating Systems
+  - AI Fundamentals
 
+## 💻 Technical Skills
 
-**About me**
+<div align="center">
 
-- 📖 Junior in University of Birmingham.
-- ❤️ I love writing Python, Java and play some deep learning code.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+</div>
 
-## 📈Statistics
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indexss&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+## 📊 GitHub Analytics
 
- <p align="center"><a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indexss&theme=github_dark" /></a></p> 
+<div align="center">
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indexss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats-eta-ten.vercel.app/?user=indexss&theme=tokyonight&hide_border=true" />
+</div>
 
-<!-- <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=indexss&hide_border=false" />
+<div align="center">
+  <!-- Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <!-- Trophies -->
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=indexss&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" />
+</div>
+
+<!-- snake -->
+<img src="https://github.com/indexss/indexss/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- ## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lxs432@student.bham.ac.uk)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indexss)
+
+</div> -->
+
+<!-- ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
