@@ -1,9 +1,4 @@
 <div align="center">
-<!--   <!-- Profile Banner -->
-  <a href="https://github.com/indexss">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=indexss&theme=default&data=followers,repositories,stars,commits" />
-  </a> -->
-
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/Location-Birmingham%2C%20UK-blue?style=for-the-badge&logo=google-maps" />
