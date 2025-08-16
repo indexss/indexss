@@ -2,7 +2,7 @@
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/Location-Birmingham%2C%20UK-blue?style=for-the-badge&logo=google-maps" />
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20System-green?style=for-the-badge&logo=nvidia" />
+    <img src="https://img.shields.io/badge/Focus-AI-green?style=for-the-badge&logo=nvidia" />
     <img src="https://img.shields.io/badge/Student-Computer%20Science-orange?style=for-the-badge&logo=python" />
   </p>
 </div>
@@ -69,4 +69,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
 
