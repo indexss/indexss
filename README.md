@@ -13,7 +13,7 @@
 - **BSc Computer Science**
 - 📚 Focusing on:
   - Computer Vision
-  - Machine Learning Systems
+  - All aspects of AI
 
 ### 🇨🇳 Central South University (2021 - Present)
 - **BEng Computer Science**
@@ -69,3 +69,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
