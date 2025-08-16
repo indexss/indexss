@@ -9,13 +9,13 @@
 
 ## 🎓 Education Journey
 
-### 🇬🇧 University of Birmingham (2023 - Present)
+### 🇬🇧 University of Birmingham (2023 - 2025)
 - **BSc Computer Science**
 - 📚 Focusing on:
   - Computer Vision
   - All aspects of AI
 
-### 🇨🇳 Central South University (2021 - Present)
+### 🇨🇳 Central South University (2021 - 2025)
 - **BEng Computer Science**
 - 📚 Key Areas:
   - Mathematics & Algorithms
@@ -69,5 +69,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
 
 
