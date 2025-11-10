@@ -9,19 +9,17 @@
 
 ## 🎓 Education Journey
 
+### 🇺🇸 Jhons Hopkins University (2025 - Now)
+- **MScR Computer Science**
+- 📚 Focusing on:
+  - Accelerating Models on Embedded Devices
+  - Human Language Technology (NLP)
+
 ### 🇬🇧 University of Birmingham (2023 - 2025)
 - **BSc Computer Science**
-- 📚 Focusing on:
-  - Computer Vision
-  - All aspects of AI
 
 ### 🇨🇳 Central South University (2021 - 2025)
 - **BEng Computer Science**
-- 📚 Key Areas:
-  - Mathematics & Algorithms
-  - Computer Architecture
-  - Operating Systems
-  - AI Fundamentals
 
 ## 💻 Technical Skills
 
@@ -69,6 +67,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
 
 
 
