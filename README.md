@@ -10,7 +10,6 @@
 ## 🎓 Education Journey
 
 ### 🇺🇸 Jhons Hopkins University (2025 - Now)
-- **MScR Computer Science**
 - 📚 Focusing on:
   - Accelerating Models on Embedded Devices
   - Human Language Technology (NLP)
@@ -67,6 +66,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
 
 
 
