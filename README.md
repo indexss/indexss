@@ -10,15 +10,13 @@
 ## 🎓 Education Journey
 
 ### 🇺🇸 Jhons Hopkins University (2025 - Now)
-- 📚 Focusing on:
-  - Accelerating Models on Embedded Devices
-  - Human Language Technology (NLP)
+- **MSE ECE**
 
 ### 🇬🇧 University of Birmingham (2023 - 2025)
-- **BSc Computer Science**
+- **BSc CS**
 
 ### 🇨🇳 Central South University (2021 - 2025)
-- **BEng Computer Science**
+- **BEng CS**
 
 ## 💻 Technical Skills
 
@@ -66,6 +64,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
 
 
 
