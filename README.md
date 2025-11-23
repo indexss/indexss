@@ -10,7 +10,7 @@
 ## 🎓 Education Journey
 
 ### 🇺🇸 Jhons Hopkins University (2025 - Now)
-- **MSE ECE**
+- **MPhil ECE**
 
 ### 🇬🇧 University of Birmingham (2023 - 2025)
 - **BSc CS**
@@ -64,6 +64,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
 
 
 
