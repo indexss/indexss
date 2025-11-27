@@ -10,13 +10,8 @@
 ## 🎓 Education Journey
 
 ### 🇺🇸 Jhons Hopkins University (2025 - Now)
-- **MPhil ECE**
-
 ### 🇬🇧 University of Birmingham (2023 - 2025)
-- **BSc CS**
-
 ### 🇨🇳 Central South University (2021 - 2025)
-- **BEng CS**
 
 ## 💻 Technical Skills
 
@@ -64,6 +59,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
 
 
 
