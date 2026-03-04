@@ -34,13 +34,6 @@
   <img width="49%" src="https://github-readme-streak-stats-eta-ten.vercel.app/?user=indexss&hide_border=true" />
 </div>
 
-<div align="center">
-  <!-- Languages -->
-  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indexss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> -->
-  <!-- Trophies -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=indexss&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" />
-</div>
-
 <!-- snake -->
 <img src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
@@ -59,6 +52,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indexss&color=blueviolet&style=for-the-badge" />
 </div> -->
+
 
 
 
