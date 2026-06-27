@@ -1,11 +1,3 @@
-<div align="center">
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Location-Baltimore%2C%20Maryland%2C%20US-blue?style=for-the-badge&logo=google-maps"/>
-    <img src="https://img.shields.io/badge/Focus-AI-green?style=for-the-badge&logo=nvidia" />
-    <img src="https://img.shields.io/badge/Student-Computer%20Science-orange?style=for-the-badge&logo=python" />
-  </p>
-</div>
 
 ## 🎓 Education Journey
 
